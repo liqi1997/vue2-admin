@@ -1,0 +1,5 @@
+<template>
+    <div style="color: #f00; font-size: 50px">
+        page loading...
+    </div>
+</template>
